@@ -1,0 +1,115 @@
+body{
+  font-family: 'Merriweather',serif;
+  margin:0px;
+  text-align: center;
+
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+hr{
+  border-style: dotted;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width:10px;
+  color:#EAF6F6;
+  height: 0;
+  width:5%;
+
+}
+.top_container{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+
+}
+.my-description{
+  width:25%;
+  margin:0 auto 0 auto;
+}
+.profile{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+.pro{
+  text-decoration: underline;
+}
+.first_cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.second_cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  margin:100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.code-img{
+  float:left;
+  height: 100%;
+  width: 25%;
+  padding-right: 30px;
+}
+.oracle-img{
+  float: right;
+  height: 100%;
+  width: 25%;
+  padding-left: 30px;
+}
+.contact-me{
+  font-weight: bold;
+  line-height: 2em;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+.btn{
+  background-color:#66BFBF;
+  border:0;
+  padding:5px 10px 5px 10px;
+  border-radius: 5px;
+}
+.btn-link{
+  text-decoration: none;
+  font-size:15px;
+  color:white;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  font-weight: bold;
+  padding-top:50px;
+  padding-bottom:30px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration:none;
+  padding:20px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size:10px;
+  padding:20px;
+}
